@@ -7,6 +7,9 @@ The asynchronous features of Node.js will be discussed in greater depth in the f
 nonetheless, this video is meant to serve as a brief introduction to async JavaScript. 
  (((((((((("but a quick introduction about async JavaScript is necessary and that quick intro is what this video is about."))))))))
 
+
+
+
 In this article, we will learn the ins and outs of asynchronous JavaScript.
 The first step in mastering JavaScript is to grasp this. 
 (((((((((("we're going to understand the what and why of async JavaScript.
